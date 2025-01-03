@@ -1,0 +1,14 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de logs
+*.log
+
+# Arquivos do editor VSCode
+.vscode/
+
+# Arquivos de build do React
+/frontend/build/
+
+# Arquivos de ambiente
+.env
