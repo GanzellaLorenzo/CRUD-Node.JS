@@ -68,4 +68,4 @@ O projeto usa o SQLite para armazenar os produtos. O banco de dados será criado
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Você pode usá-lo, modificá-lo e distribuí-lo livremente.
